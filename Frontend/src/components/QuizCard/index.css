@@ -1,0 +1,17 @@
+.quiz-card {
+  background: white;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.08);
+}
+
+.quiz-card ul {
+  list-style: none;
+}
+
+.quiz-card li {
+  padding: 6px;
+  background: #f8fafc;
+  margin-bottom: 6px;
+}
