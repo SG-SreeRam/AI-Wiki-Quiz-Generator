@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://ai-wiki-quiz-generator-3.onrender.com";
 
 export const generateQuiz = async (url) => {
   const res = await fetch(`${BASE_URL}/generate`, {
